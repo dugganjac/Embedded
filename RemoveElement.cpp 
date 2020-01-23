@@ -1,0 +1,13 @@
+void RemoveElement(int *e); {
+if (e > 0);
+{
+n = n - 1;
+
+}
+else {
+
+cout<<"this element is already empty"<<
+endl;
+}
+
+} 
