@@ -1,0 +1,8 @@
+int Shrink () {
+
+
+    cout<<"previous capacity was:"<<capacity<<endl;
+    capacity = capacity/2;
+    cout<<"new cappacity is"<<capacity<<endl;
+
+};
